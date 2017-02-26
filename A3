@@ -1,0 +1,6 @@
+@include iostream
+
+void main()
+{
+	cout << "This is assignment 3" << endl;
+}
